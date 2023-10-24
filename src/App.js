@@ -1,10 +1,7 @@
-import './App.css';
-import Headers from './components/header/Headers';
+import './App.css'
 
 function App() {
-  return (
-    <Headers />
-  );
+  return <h1>My React App</h1>
 }
 
 export default App
